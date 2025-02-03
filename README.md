@@ -89,18 +89,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ABULBASAR36&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ABULBASAR36&theme=github_dark)
 
-<!-- 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&custom_title=STATS&username=ABULBASAR36" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=5&theme=github_dark&hide_border=false&custom_title=LANGUAGES&username=ABULBASAR36" height="150" alt="languages graph"  />
-</div>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ABULBASAR36&theme=tokyonight_duo&background=0d1117" alt="ABULBASAR36" /></p> -->
-
-<!-- ![](https://github-profile-trophy.vercel.app/?username=ABULBASAR36&no-bg=true&theme=onedark)       -->
-
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ABULBASAR36&theme=github&bg_color=00000000)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
 </details>
 <br>
 Thanks for visiting my profile! 😊
