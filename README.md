@@ -15,7 +15,6 @@
 </b> 
 
 <br>
-<br>
 <div>
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" height="80" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="80" height="80" />
@@ -44,6 +43,10 @@
 - 🔭 I’m currently working on **APP Development And Web Development**
 
 - 🌱 I’m currently learning **Maching Learning, Problem Solving**
+
+- 👯 I’m looking to collaborate on open source projects and innovative ideas.
+- 🤔 I’m looking for help with mastering backend technologies such as Node.js and Python.
+- 💬 Ask me about anything related to web development, I'm happy to help!
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abul-basar-alba-2067a7324/](https://www.linkedin.com/in/abul-basar-alba-2067a7324/)
 
@@ -98,6 +101,6 @@
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ABULBASAR36&theme=github&bg_color=00000000)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-
-
 </details>
+<br>
+Thanks for visiting my profile! 😊
