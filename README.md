@@ -1,6 +1,21 @@
+<samp>
+    <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">Hey there!</h1>
+</samp>
 <h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+I'm+Md+Abul+Basar" alt="Basar" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+Md+Abul+Basar;A+student+at+PSTU;studying+BSc.+in+CSE" alt="Basar" /></a>
 </h3>
+
+<b>
+
+- 🐧 A Linux enthusiast
+- ❤️ I like open-source projects
+- 🌱 Interested about resume? [Click here](https://resume.github.io/?ABULBASAR36).
+- 🔥 Feel free to text me
+
+</b> 
+
+<br>
+<br>
 <div>
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" height="80" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="80" height="80" />
