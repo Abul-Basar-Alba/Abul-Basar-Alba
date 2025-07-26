@@ -102,4 +102,19 @@
 
 </details>
 <br>
-Thanks for visiting my profile! 😊
+## 🐍 Contribution Snake:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+<h2 align="center">✨ Thank You for Visiting my profile! 😊 ✨</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
+</p>
+
+---
+
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+
