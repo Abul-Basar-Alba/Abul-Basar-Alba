@@ -116,6 +116,11 @@
 </p>
 
 ---
+### 👀 Visitor Count
+
+<p align="left">
+  <img src="https://count.getloli.com/get/@Abul-Basar-Alba?theme=rule34" alt="Profile Views" />
+</p>
 
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
