@@ -1,3 +1,6 @@
+<p>
+  <img src="https://github.com/Abul-Basar-Alba/Abul-Basar-Alba/blob/main/files/github-readme-cover.gif?raw=true"/>
+</p>
 <samp>
     <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">Hey there!</h1>
 </samp>
